@@ -2,8 +2,15 @@ package AlgorithimPractice
 
 object Practice1 {
 
+  def GitTest(n:Int): Int = {
+    if(n == 0 || n == 1)
+      return n
+    else
+      Fibonacci(n-1) + Fibonacci(n-2)
+  }
+
   def main(args: Array[String]):Unit = {
-    println("Shiv 231 456 6787 34509345")
+    println("Shiv 231 456 6787")
 
     println(Fibonacci(10))
 

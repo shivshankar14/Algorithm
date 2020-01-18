@@ -12,7 +12,8 @@ object Practice1 {
     //added one more line.
     // push the feature branch to remote server
     //changes in feature branch.
-    //changing feature branch 2
+    //changing feature branch 2git status
+
   }
 
   def main(args: Array[String]):Unit = {

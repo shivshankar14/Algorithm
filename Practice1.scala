@@ -2,7 +2,7 @@ package AlgorithimPractice
 
 object Practice1 {
 
-  def GitTest(n:Int): Int = {
+  def GitTest2(n:Int): Int = {
     if(n == 0 || n == 1)
       return n
     else

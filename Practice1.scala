@@ -8,7 +8,8 @@ object Practice1 {
     else
       Fibonacci(n-1) + Fibonacci(n-2)
     //edited on the remote origin test_branch.
-    //edited on the local test_branch through intelliJ code. ---Edited same code
+    //edited on the local test_branch through intelliJ code. ---Edited same code -- checked in
+    //added one more line.
   }
 
   def main(args: Array[String]):Unit = {

@@ -10,6 +10,7 @@ object Practice1 {
     //edited on the remote origin test_branch.
     //edited on the local test_branch through intelliJ code. ---Edited same code -- checked in
     //added one more line.
+    // push the feature branch to remote server
   }
 
   def main(args: Array[String]):Unit = {
